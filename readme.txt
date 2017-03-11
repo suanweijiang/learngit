@@ -9,5 +9,9 @@ Creating a new branch is quick AND simple.
 
 >>>>>>> featurel
 update -- 2017-03-11 08:34:24
+<<<<<<< HEAD
 已修复
 
+=======
+dev update
+>>>>>>> dev
